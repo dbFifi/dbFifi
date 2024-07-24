@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Daco
 #### Just a young Croatian developer.
-![Just a young Croatian developer.])
 
 Young Croatian developer whos learning a lot
 
